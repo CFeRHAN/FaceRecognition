@@ -48,4 +48,4 @@ face_recognition: https://github.com/ageitgey/face_recognition
 Contributions to this project are welcome. Feel free to submit bug reports, feature requests, or pull requests.
 
 # Contact
-For any inquiries or feedback, please contact Your Name.
+Feel free to contact for any inquiries or feedback
